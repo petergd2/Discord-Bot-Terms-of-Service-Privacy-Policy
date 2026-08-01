@@ -1,0 +1,65 @@
+Not even gonna lie, i had AI write this, im learning python not law 
+
+Privacy Policy
+
+Last updated: [8-1-26]
+
+This Privacy Policy explains what information [BOT NAME] ("the Bot") collects, how it is used, and your rights regarding that information. By using the Bot, you agree to the practices described here.
+
+1. Information We Collect
+
+To provide whitelist functionality, the Bot collects and stores:
+
+Your Discord user ID — used to identify who submitted a whitelist request and to prevent duplicate or unauthorized requests.
+The Minecraft username you provide — used to add you to the Minecraft server's whitelist.
+
+We do not collect passwords, payment information, email addresses, IP addresses, or any other personal data beyond what is listed above, unless explicitly stated by us in the future.
+
+2. How We Use Your Information
+
+The information collected is used solely to:
+
+Add and maintain your entry on the Minecraft server whitelist.
+Match your Discord account to your Minecraft username for moderation and support purposes (e.g., resolving whitelist issues, enforcing server rules).
+Remove you from the whitelist if you leave the Discord server, request removal, or violate server rules.
+
+We do not use your information for advertising, profiling, or any purpose unrelated to whitelist management.
+
+3. How We Store Your Information
+
+Your Discord ID and Minecraft username are stored in a database associated with the Bot for as long as you remain whitelisted, or as long as reasonably necessary to operate the Server. Reasonable technical measures are used to protect this data, but no system can be guaranteed 100% secure.
+
+4. Sharing of Information
+
+We do not sell, rent, or share your information with third parties, except:
+
+When required to do so by law.
+With server administrators/moderators solely for the purpose of managing the whitelist and enforcing server rules.
+If the Bot relies on third-party hosting or infrastructure providers (e.g., a database host), in which case your data may pass through their systems as part of normal operation.
+5. Data Retention
+
+We retain your Discord ID and Minecraft username for as long as you are an active member of the whitelist. If you leave the Discord server, are removed from the whitelist, or request deletion, we will remove your stored data within a reasonable time, except where retention is needed to resolve disputes or enforce our Terms.
+
+6. Your Rights
+
+You may:
+
+Request to know what data we hold about you.
+Request correction of inaccurate data (e.g., an updated Minecraft username).
+Request deletion of your data, which will also result in removal from the whitelist.
+
+To exercise these rights, contact us using the information below.
+
+7. Children's Privacy
+
+The Bot is not intended for use by anyone who does not meet Discord's minimum age requirements. We do not knowingly collect data from users who do not meet these requirements.
+
+8. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Continued use of the Bot after changes are posted constitutes acceptance of the revised policy. Significant changes will be announced in our Discord server where reasonably possible.
+
+9. Contact
+
+Questions about this Privacy Policy, or requests regarding your data, can be directed to: [CONTACT INFO / DISCORD SERVER LINK]
+
+This document is a general template and is not a substitute for legal advice, particularly if you operate in a region with specific data protection laws (e.g., GDPR, CCPA). Consider professional review if your bot grows beyond a small community project.
